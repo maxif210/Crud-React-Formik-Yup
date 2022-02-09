@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "medias nuevo",
+      "empresa": "cualquera",
+      "email": "maxi@maxi.com",
+      "telefono": "3516989361",
+      "notas": "asdsd",
+      "id": 1
+    },
+    {
+      "nombre": "Lourdes Micaela",
+      "empresa": "cualquiera",
+      "email": "maxi@maxi.com",
+      "telefono": "21313",
+      "notas": "dfgdfg",
+      "id": 2
+    },
+    {
+      "nombre": "short hombre",
+      "empresa": "eia",
+      "email": "eduardoviana83@gmail.com",
+      "telefono": "123213",
+      "notas": "dsfgdgd",
+      "id": 3
+    }
+  ]
+}
